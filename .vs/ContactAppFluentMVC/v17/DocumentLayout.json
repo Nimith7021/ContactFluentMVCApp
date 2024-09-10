@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\contactappfluentmvc\\contactappfluentmvc\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.ContactDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contactdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contactdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contactdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contactdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contactdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contactdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contactdetail\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contactdetail\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\mappings\\contactdetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\mappings\\contactdetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\mappings\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\mappings\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\contactappfluentmvc\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1320388D-4EE7-4342-8504-668E78DED9CC}|ContactAppFluentMVC\\ContactAppFluentMVC.csproj|solutionrelative:contactappfluentmvc\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\ContactDetail\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Delete.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\ContactDetail\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T19:10:50.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\ContactDetail\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Edit.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\ContactDetail\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T19:02:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\ContactDetail\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\Create.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\ContactDetail\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:59:39.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetContactDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:59:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\ContactDetailController.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Controllers\\ContactDetailController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\ContactDetailController.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Controllers\\ContactDetailController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:51:56.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\Contact\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:38:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:29:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:18:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:10:20.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:04:46.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAASwEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:00:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T17:54:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAIwFsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:26:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ContactAppFluentMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T17:26:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.ContactDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.ContactDetails.sql",
+              "ToolTip": "dbo.ContactDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T17:15:38.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Contacts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T17:13:38.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T17:12:34.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:10:17.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwFgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:09:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Data\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAArwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:04:04.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactDetailMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:01:17.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\ContactMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Mappings\\ContactMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\ContactMap.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Mappings\\ContactMap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:58:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:55:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactDetail.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Models\\ContactDetail.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\ContactDetail.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Models\\ContactDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:50:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Models\\Contact.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:49:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContactAppFluentMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFluentMVC\\ContactAppFluentMVC\\Models\\User.cs",
+              "RelativeToolTip": "ContactAppFluentMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:47:36.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
